@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Şuheda özçelik\Fow5.gun\Fow5.gun\bin\Debug\Fow5.gun.exe.config
+C:\Users\PC\source\repos\Şuheda özçelik\Fow5.gun\Fow5.gun\bin\Debug\Fow5.gun.exe
+C:\Users\PC\source\repos\Şuheda özçelik\Fow5.gun\Fow5.gun\bin\Debug\Fow5.gun.pdb
+C:\Users\PC\source\repos\Şuheda özçelik\Fow5.gun\Fow5.gun\obj\Debug\Fow5.gun.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Şuheda özçelik\Fow5.gun\Fow5.gun\obj\Debug\Fow5.gun.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Şuheda özçelik\Fow5.gun\Fow5.gun\obj\Debug\Fow5.gun.exe
+C:\Users\PC\source\repos\Şuheda özçelik\Fow5.gun\Fow5.gun\obj\Debug\Fow5.gun.pdb

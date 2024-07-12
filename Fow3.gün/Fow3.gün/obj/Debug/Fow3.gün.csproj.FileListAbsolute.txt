@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Şuheda özçelik\Fow3.gün\Fow3.gün\bin\Debug\Fow3.gün.exe.config
+C:\Users\PC\source\repos\Şuheda özçelik\Fow3.gün\Fow3.gün\bin\Debug\Fow3.gün.exe
+C:\Users\PC\source\repos\Şuheda özçelik\Fow3.gün\Fow3.gün\bin\Debug\Fow3.gün.pdb
+C:\Users\PC\source\repos\Şuheda özçelik\Fow3.gün\Fow3.gün\obj\Debug\Fow3.gün.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Şuheda özçelik\Fow3.gün\Fow3.gün\obj\Debug\Fow3.gün.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Şuheda özçelik\Fow3.gün\Fow3.gün\obj\Debug\Fow3.gün.exe
+C:\Users\PC\source\repos\Şuheda özçelik\Fow3.gün\Fow3.gün\obj\Debug\Fow3.gün.pdb

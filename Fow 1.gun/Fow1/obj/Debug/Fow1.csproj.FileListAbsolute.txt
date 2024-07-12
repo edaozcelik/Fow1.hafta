@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Şuheda özçelik\Fow1\Fow1\bin\Debug\Fow1.exe.config
+C:\Users\PC\source\repos\Şuheda özçelik\Fow1\Fow1\bin\Debug\Fow1.exe
+C:\Users\PC\source\repos\Şuheda özçelik\Fow1\Fow1\bin\Debug\Fow1.pdb
+C:\Users\PC\source\repos\Şuheda özçelik\Fow1\Fow1\obj\Debug\Fow1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Şuheda özçelik\Fow1\Fow1\obj\Debug\Fow1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Şuheda özçelik\Fow1\Fow1\obj\Debug\Fow1.exe
+C:\Users\PC\source\repos\Şuheda özçelik\Fow1\Fow1\obj\Debug\Fow1.pdb

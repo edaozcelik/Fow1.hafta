@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Şuheda özçelik\Fow4.gun\Fow4.gun\bin\Debug\Fow4.gun.exe.config
+C:\Users\PC\source\repos\Şuheda özçelik\Fow4.gun\Fow4.gun\bin\Debug\Fow4.gun.exe
+C:\Users\PC\source\repos\Şuheda özçelik\Fow4.gun\Fow4.gun\bin\Debug\Fow4.gun.pdb
+C:\Users\PC\source\repos\Şuheda özçelik\Fow4.gun\Fow4.gun\obj\Debug\Fow4.gun.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Şuheda özçelik\Fow4.gun\Fow4.gun\obj\Debug\Fow4.gun.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Şuheda özçelik\Fow4.gun\Fow4.gun\obj\Debug\Fow4.gun.exe
+C:\Users\PC\source\repos\Şuheda özçelik\Fow4.gun\Fow4.gun\obj\Debug\Fow4.gun.pdb
